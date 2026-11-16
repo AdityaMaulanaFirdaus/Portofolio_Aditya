@@ -30,7 +30,7 @@ Portofolio_Aditya/
 ├── css/            # File stylesheet
 ├── images/         # Foto dan aset visual
 ├── index.html      # Halaman utama
-└── README.md       # Dokumentasi proyek
+└── readme.md       # Dokumentasi proyek
 ```
 
 ## Kontak
