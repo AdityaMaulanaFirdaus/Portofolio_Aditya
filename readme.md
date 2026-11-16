@@ -41,5 +41,3 @@ Portofolio_Aditya/
 - **Email:** adityamaulana3764@gmail.com
 
 ---
-
-Dibuat dengan ❤️ sebagai tugas Web Programming.
