@@ -2,7 +2,7 @@
 
 Website portofolio pribadi **Aditya Maulana Firdaus**, mahasiswa S1 Teknik Informatika Universitas Perjuangan Tasikmalaya. Proyek ini dibuat sebagai tugas mata kuliah **Web Programming**.
 
-🔗 **Demo:** [adityamaulanafirdaus.github.io/Portofolio_Aditya](https://adityamaulanafirdaus.github.io/Portofolio_Aditya/)
+🔗 **Link:** [adityamaulanafirdaus.github.io/Portofolio_Aditya](https://adityamaulanafirdaus.github.io/Portofolio_Aditya/)
 
 ## Tentang Proyek
 
